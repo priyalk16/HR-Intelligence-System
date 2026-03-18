@@ -155,7 +155,7 @@ http://localhost:8501
 
 The Streamlit dashboard allows HR managers to:
 
-- Enter any employee's details (age, department, experience, satisfaction scores etc.)
+- - Enter any employee's details (age, department, experience, monthly income, satisfaction scores etc.)
 - Get **3 instant predictions** simultaneously:
   - 🚨 Attrition risk percentage
   - 🏢 Predicted job level (Entry → Director)
